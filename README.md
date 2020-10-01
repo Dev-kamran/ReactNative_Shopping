@@ -1,3 +1,9 @@
+#react-native e commerce website 
+for window shopping
+
+
+
+
 #ReactNative_Shopping
 开源动力,仿优购网 use RN and Redux
 本项目适合有RN基础和Redux基础
